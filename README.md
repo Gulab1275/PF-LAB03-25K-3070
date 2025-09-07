@@ -3,17 +3,21 @@ My name is Gulab Rai from Umerkot. I am studying BSCS at Fast Nuces Karachi. My 
 ## heading2
 ### heading3
 <br/>
+
 Ordered List
 1. MS Word
 2. Excel
 3. Power Point
 4. Adobe Photoshop
 <br/>
+
 Unordered List
 - Mango
 - Orange
 - Apple
 - Banana
+  <br/>
 **MY NAME IS GULAB RAI**
+  <br/>
   _I Study in FAST University_
   
